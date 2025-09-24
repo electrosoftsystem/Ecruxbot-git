@@ -1,0 +1,22 @@
+.feature-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 1.5em;
+  text-align: center;
+  width: 220px;
+}
+.feature-image {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 1em;
+}
+.feature-card h3 {
+  color: var(--primary);
+  margin-bottom: 0.5em;
+}
+.feature-card p {
+  color: var(--text);
+  font-size: 0.95em;
+}
